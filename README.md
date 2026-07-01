@@ -66,7 +66,7 @@ http://localhost:8000
 
 - ایمیل: asbemord@gmail.com
 - وب‌سایت: https://www.asbemord.ir/
-- طراح: Farzad Rahimi
+- طراح: فرزاد رحیمی
 
 ## مجوز
 
